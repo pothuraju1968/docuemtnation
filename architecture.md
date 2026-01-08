@@ -22,7 +22,7 @@ The **AI-Powered Web Accessibility Testing Platform** is a solution designed to 
 
 ### 1.1 High-Level Architecture
 
-```
+```md
 ╔════════════════════════════════════════════════════════════════════════════════╗
 ║                              USER INTERFACE                                    ║
 ║         Web-based dashboard for configuration, execution, and results          ║
